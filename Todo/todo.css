@@ -1,0 +1,57 @@
+body{
+    background-image: url(./designs_and_pics/hd-wallpaper-1850417_1920.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+   color: rgba(240,190,150,255);
+   -webkit-text-stroke-width: 2px;
+   -webkit-text-stroke-color: black;
+   font-size: 7vw;
+   margin-left: 7vw;
+   margin-top: 8vw;
+}
+input{
+    border: .25vw solid black;
+    background-color: transparent;
+    border-radius: 20px;
+    width: 20vw;
+    height: 3.4vw;
+    margin-left: 7.3vw;
+    margin-top: 2vw;
+    font-size: 3vw;
+    color: rgba(240,190,150,255);
+    -webkit-text-stroke-width: 1.5px;
+    -webkit-text-stroke-color: black;
+}
+button{
+    position: absolute;
+    margin-top: 2.4vw;
+    margin-left: 1vw;
+    width: 5.5vw;
+    height: 3.4vw;
+    border-color: black;
+    background-color: rgba(240,190,150,255);
+    border-radius: 20px;
+    font-size: 20px;
+    color: rgba(105,180,178,255);
+    -webkit-text-stroke-width: .5px;
+    -webkit-text-stroke-color: black;
+    
+}
+div2{
+    position: absolute;
+    width: 27vw;
+    height: 3.4vw;
+    border:.25vw solid black;
+    border-radius: 20px;
+    background-color:transparent;
+    margin-top: 10vw;
+    margin-left: 7.3vw;
+    font-size: 30px;
+    line-height: 3.2vw;
+    padding-left: 10px;
+    color: rgba(105,180,178,255);
+    -webkit-text-stroke-width: .9px;
+    -webkit-text-stroke-color: black;
+}
